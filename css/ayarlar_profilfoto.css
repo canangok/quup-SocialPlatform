@@ -1,0 +1,54 @@
+   .well-sm {
+    padding: 9px;
+    border-radius: 3px;
+}
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+   }
+
+    .custom .jcrop-vline, .custom .jcrop-hline{        
+          background: yellow;    
+          }    
+        .custom .jcrop-handle {        
+         border-color: black;        
+         background-color: #C7BB00;        
+             }    
+
+        .avatar{        
+          z-index: 99;    
+        }    
+        #cropForm{        
+        background: white;       
+        border-radius: 5px;        
+        margin: -5px 0 10px 0;        
+        padding: 10px;        
+        }   
+
+        #cropForm .left{        
+        float: left;        
+        width: 400px;    
+        }    
+
+        #cropForm .right{        
+        float: right;       
+         width: 210px;        
+         position: relative;        
+         z-index: 9999;        
+         background-color: white;        
+         padding: 5px;        
+         border-radius: 5px;    
+       }    
+
+       #cropForm .right label{        
+        font-weight: bold;        
+        color: #3a3a3a;    
+        }    
+
+        #preview{        
+        display: none;    
+        }
+        

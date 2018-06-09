@@ -1,0 +1,84 @@
+.isim{
+float:right;width: 90%;height: 30px;margin-top: -60px;font: 20px Arial;color:#5b5e73;text-decoration: none;
+}
+.isim a{
+	color: #5b5e73;
+	text-decoration: none;
+}
+.isim:hover a{
+	color:#21aabd;
+
+}
+.paylasim-menu{
+	margin-left:88px;background:#edf0f0;width: 90%;height: 30px;margin-top: 20px;font: 20px Arial;
+}
+.paylasim-menu div{
+	font-size: 14px;
+	font-family: Helvetica;
+	float: left;
+	margin-left: 10px;
+	margin-top: 5px;
+
+}
+
+.paylasim-menu div .a{
+	color:#384142;
+}
+.paylasim-menu div .a:hover{
+	color: #23527c;
+    text-decoration: underline;
+}
+
+.paylasim-kutusu{
+	position: relative;
+	margin-left:88px;
+	margin-top: -15px;
+	width:90%;
+	height: auto;
+	padding-bottom:15px;
+	
+		
+}
+.paylasim-div{
+	
+	width: 100%;
+}
+.show2{
+	display: block;
+}
+.yorum-penceresi{
+	width: 90%;
+	height: 60px;
+	background-color: #edf0f0;
+	margin :20px 5px 5px 88px;
+
+}
+.yorum-form input{
+	padding: 7px 10px;
+    margin: 5px 10px 19px 10px;
+    border-radius: 5px;
+    border: 1px solid #c8c9d3;
+    background: #fff;
+    color: #384142;
+    width:300px;
+}
+.yorum-penceresi div{
+	display: inline-block;
+}
+.btn input{
+	padding: 7px 10px;
+    margin: 5px 10px 19px 5px;
+    border-radius: 5px;
+    border: 1px solid #c8c9d3;
+    color: #fff;
+    height: 40px;;
+	background-color: #42b4e4; 
+	
+}
+textarea{
+      font-family: monospace;
+}
+.rw-header #the-main-menu .search-item form input[name='q'] {
+    width: 230px;
+    margin: 0;
+}

@@ -1,0 +1,125 @@
+ .left-sidebar .rw-sidebar {
+    float: left;
+    margin-left: -200px;
+    border-right: 1px solid #c3cdcd;
+}
+
+
+		.rw-sidebar {
+    position: relative;
+    width: 200px;
+    background: #edf0f0;
+    min-height: 50px;
+    min-width: 50px;
+}
+.rw-column {
+    float: left;
+    display: inline-block;
+    padding-bottom: 100029px;
+    margin-bottom: -99999px;
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+.rw-sidebar .the-sidebar {
+    background: inherit;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}.widget {
+    margin: 10px 0;
+    padding: 5px 20px 0;
+    font-size: 13px;
+}
+.widget .widget-posts-list .post:last-of-type {
+    border-bottom: 0;
+}
+.widget .widget-title-member .post {
+    margin-top: 2px;
+    padding: 0;
+    text-align: center;
+}
+.widget .widget-posts-list .post {
+    position: relative;
+    padding: 15px 0 15px 60px;
+    border-bottom: 1px solid #ddd;
+    box-sizing: border-box;
+}
+.widget .widget-title-member .post .entry-photo {
+    position: static;
+    width: 100%;
+}
+.widget .widget-posts-list .post .entry-photo {
+    position: absolute;
+    width: 50px;
+    heiht: 50px;
+    top: 17px;
+    left: 0;
+    box-sizing: border-box;
+}
+.widget .widget-title-member .post .entry-photo img {
+     width:50px; 
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+
+.widget .widget-posts-list .post .entry-title {
+    line-height: 1.3;
+    display: block;
+    margin-bottom: 5px;
+}
+.widget .widget-title-member .entry-title {
+    margin-top: 70px;
+    font-size:18px;
+    font-family: Arial;
+    box-sizing: border-box;
+    margin-left: -80px;
+}
+.widget-posts-list img{
+;
+    display: inline-block;
+    width: 25px;
+    margin-right: 5px;
+    font-size: inherit;
+    text-rendering: auto;
+}
+.widget-posts-list a {
+    color: #384142;
+    text-decoration: none;
+}
+.widget-posts-list a:hover {
+    color: #198392;
+}
+.widget-posts-list a:active, a:hover {
+    outline: 0;
+}
+.widget-posts-list a:focus, a:hover {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.widget.widget-menu ul {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.sidebar-menu-items li.active {
+    border-right: 3px solid #c8d9e8;
+}
+.sidebar-menu-items li {
+    margin-bottom: 8px;
+}
+
+.widget .widget-title h3 {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
